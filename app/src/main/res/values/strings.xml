@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Date Interval</string>
+    <string name="date">dd/mm/yyyy</string>
+    <string name="data_de_inicio">Data de Inicio</string>
+    <string name="data_de_fim">Data de fim</string>
+    <string name="qtd_dias">O dias</string>
+    <string name="btncalcular">Calcular</string>
+    <string name="hoje">Hoje</string>
+</resources>
